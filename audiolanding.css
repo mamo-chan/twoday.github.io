@@ -5,8 +5,9 @@ Description: Sales landing page for audio files build upon Bootstrap 4
 Version:1.0.0
 License: https://www.wowfreebies.net/page/license
 */
+
 body {
-	font-family:Poppins;
+	font-family: 'Lato', sans-serif;
 	color:#999;
 }
 img {

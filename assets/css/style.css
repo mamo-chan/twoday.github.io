@@ -22,7 +22,8 @@ body {
 }
 
 h1 {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Zen Tokyo Zoo', cursive;
     font-weight: 900;
     margin: 0;
 }
@@ -38,7 +39,8 @@ h1 {
 }
 
 .monsterfont {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Otomanopee One', sans-serif;
+    font-family: 'Zen Tokyo Zoo', cursive;
     font-weight: 200;
 }
 
